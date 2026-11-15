@@ -1,0 +1,4 @@
+interface:
+  display_name: "自顶向下项目理解"
+  short_description: "先建立核心逻辑、状态与数据流，再沿入口和调用链走通新项目实现"
+  default_prompt: "使用 $top-down-project-understanding 带我学习这个新项目，先讲逻辑再走源码。"
